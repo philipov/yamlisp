@@ -3,3 +3,6 @@
 
 """
 """
+
+from .eval import eval_yamlisp
+
