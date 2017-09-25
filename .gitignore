@@ -9,6 +9,7 @@ download/
 *.egg-info
 
 __ignore__/
+__backup__
 .smash/
 
 .pyirc
